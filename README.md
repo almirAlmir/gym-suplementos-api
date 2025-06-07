@@ -151,4 +151,6 @@ Esta API serve como um exemplo simples e modular para gerenciar produtos para ac
 
 Considero como aprimoramentos futuros a implementação de um banco de dados real, adicionar autenticação, refinar a validação de dados nas requisições de CREATE e UPDATE e implementar mais características no objeto produto(Description, stock, type, etc). Aprimoramentos esses, que serão feitos sem auxílio massivo da IA generativa, visto que o objetivo foi cumprido na primeira versão.
 
+A talvez adição de um frontend será considerada
+
 Att,
