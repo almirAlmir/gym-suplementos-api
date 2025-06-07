@@ -143,12 +143,12 @@ Certifique-se de configurar as variáveis de ambiente necessárias e ajustar as 
 
 Este projeto foi desenvolvido como prática de Engenharia de Prompts, ou seja, com o auxílio de uma IA generativa, que ajudou na criação inicial e estruturação do projeto enquanto o foco foi na melhora e refinamento dos prompts para a IA.
 
-Apesar disso, esclareço que o entendimento total da estrutura do código foi necessário para que este projeto rodasse, fosse usado e suas requisições testadas e alterações fossem feitas no código gerado.
+Apesar disso, esclareço que o entendimento total da estrutura do código foi necessário para que este projeto rodasse, fosse usado, suas requisições testadas e alterações fossem feitas no código gerado.
 
 ## Conclusão
 
 Esta API serve como um exemplo simples e modular para gerenciar produtos para academia, utilizando boas práticas de desenvolvimento em Node.js. 
 
-Considero como aprimoramentos futuros a implementação de um banco de dados real, adicionar autenticação, refinar a validação de dados nas requisições de CREATE e UPDATE e implementar mais caracteristícas no objeto produto(Description, stock, type, etc). Aprimoramentos esses, que serão feitos sem auxílio massivo da IA generativa, visto que o objetivo foi comprido na primeira versão.
+Considero como aprimoramentos futuros a implementação de um banco de dados real, adicionar autenticação, refinar a validação de dados nas requisições de CREATE e UPDATE e implementar mais características no objeto produto(Description, stock, type, etc). Aprimoramentos esses, que serão feitos sem auxílio massivo da IA generativa, visto que o objetivo foi cumprido na primeira versão.
 
 Att,
